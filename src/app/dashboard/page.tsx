@@ -1,7 +1,7 @@
 const Dashboard = () => {
   return (
-    <div className="flex">
-      <div className="mx-12 mt-11 flex-[1_1_80%]">
+    <div className="flex ml-80">
+      <div className="mx-12 mt-11">
         <p className="text-3xl font-semibold text-slate-700">Project Name</p>
         <p className="my-6 text-slate-700">
           Here goes the project description Lorem ipsum dolor sit amet

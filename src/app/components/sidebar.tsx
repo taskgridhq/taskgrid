@@ -53,7 +53,7 @@ export function SidebarComponent() {
     },
   ];
   return (
-    <div className="h-screen w-80 border-r-[1px] grid">
+    <div className="h-screen w-80 border-r-[1px] absolute grid">
       <div className="flex flex-col justify-between">
         <div className="border-b-[1px]">
           <div className="flex mb-5  hover:bg-slate-200 text-slate-600 px-4 py-4 cursor-pointer border-b-[1px]">
